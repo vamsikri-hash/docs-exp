@@ -9,7 +9,7 @@ const config = {
   title: 'Sample Docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://vamsikri-hash.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docs-exp/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
